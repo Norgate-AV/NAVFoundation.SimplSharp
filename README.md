@@ -1,7 +1,7 @@
 # NAVFoundation.SimplSharp
 
 <div align="center">
-    <img src="./assets/img/Logo_2017_SIMPL#.png" alt="simplesharp-logo" width="200" />
+    <img src="./assets/img/simplsharp.png" alt="simplesharp-logo" width="200" />
 </div>
 
 ---
