@@ -52,3 +52,8 @@
 #*.filters   merge=binary
 #*.vcxitems  merge=binary
 
+# Declare files that are binary so that their eol should not be modified.
+# Git, with the first line of this file, will probably not modify binary
+# files, but add the following just to be safe and explicit.
+*.png binary
+*.jpg binary
